@@ -1,0 +1,159 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "childs": [
+                {
+                    "code": "PointsReview",
+                    "icon": "icon",
+                    "isShow": false,
+                    "name": "Points Review",
+                    "remark": "-1",
+                    "sort": 0,
+                    "type": 1,
+                    "uid": 10144,
+                    "url": "/points-review"
+                },
+                {
+                    "code": "CollectionFlow",
+                    "icon": "icon",
+                    "isShow": false,
+                    "name": "New Collection Flow",
+                    "remark": "-1",
+                    "sort": 1,
+                    "type": 1,
+                    "uid": 11112,
+                    "url": "/collection"
+                },
+                {
+                    "code": "UnderwritingV2Flow",
+                    "icon": "icon",
+                    "isShow": false,
+                    "name": "New Underwriting Flow",
+                    "remark": "-1",
+                    "sort": 1,
+                    "type": 1,
+                    "uid": 11110,
+                    "url": "/underwriting"
+                },
+                {
+                    "code": "UnderwritingFlow",
+                    "icon": "icon",
+                    "isShow": false,
+                    "name": "Underwriting Flow",
+                    "remark": "-1",
+                    "sort": 9,
+                    "type": 1,
+                    "uid": 10009,
+                    "url": "/underwriting-flow-list"
+                },
+                {
+                    "code": "CollectionFlow",
+                    "icon": "icon",
+                    "isShow": false,
+                    "name": "Collection Flow",
+                    "remark": "-1",
+                    "sort": 10,
+                    "type": 1,
+                    "uid": 10010,
+                    "url": "/collection-flow-list"
+                }
+            ],
+            "code": "Task",
+            "icon": "icon",
+            "isShow": false,
+            "name": "Task",
+            "remark": "-1",
+            "sort": 0,
+            "type": 1,
+            "uid": 10000,
+            "url": ""
+        },
+        {
+            "childs": [
+                {
+                    "code": "PointsManualInjection",
+                    "icon": "icon",
+                    "isShow": false,
+                    "name": "Points Manual Injection",
+                    "remark": "-1",
+                    "sort": 99,
+                    "type": 1,
+                    "uid": 10146,
+                    "url": "/balance/points"
+                }
+            ],
+            "code": "Marketing",
+            "icon": "icon",
+            "isShow": false,
+            "name": "Marketing",
+            "remark": "-1",
+            "sort": 0,
+            "type": 1,
+            "uid": 10145
+        },
+        {
+            "childs": [
+                {
+                    "code": "CollectionV2Manager",
+                    "icon": "icon",
+                    "isShow": false,
+                    "name": "New Collection Manager",
+                    "remark": "-1",
+                    "sort": 1,
+                    "type": 1,
+                    "uid": 11113,
+                    "url": "/collection/manager"
+                },
+                {
+                    "code": "UnderwritingV2Manager",
+                    "icon": "icon",
+                    "isShow": false,
+                    "name": "New Underwriting Manager",
+                    "remark": "-1",
+                    "sort": 1,
+                    "type": 1,
+                    "uid": 11111,
+                    "url": "/underwriting/manager"
+                }
+            ],
+            "code": "TaskMgmt",
+            "functionCodes": [
+                "TaskMgmt.Button.AssignToMe"
+            ],
+            "icon": "icon",
+            "isShow": false,
+            "name": "Task Mgmt",
+            "remark": "-1",
+            "sort": 11,
+            "type": 1,
+            "uid": 10011
+        },
+        {
+            "childs": [
+                {
+                    "code": "PolicyV2",
+                    "icon": "icon",
+                    "isShow": false,
+                    "name": "Policy List",
+                    "remark": "-1",
+                    "sort": 1,
+                    "type": 1,
+                    "uid": 11114,
+                    "url": "/policy"
+                }
+            ],
+            "code": "Oms",
+            "icon": "icon",
+            "isShow": false,
+            "name": "OMS",
+            "remark": "-1",
+            "sort": 32,
+            "type": 1,
+            "uid": 10032
+        }
+    ],
+    "header": {
+        "resultCode": 200
+    }
+}
