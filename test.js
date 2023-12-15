@@ -7,3 +7,4 @@ function triangular( n ) {
   }
   return sum;
 }
+triangular(7)
